@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+[class="1"] {
+  height: 10vh;
+  background-color: lightcoral;
+  margin: auto;
+}
+
+[class="2"] {
+  height: 10vh;
+  background-color: lightgreen;
+  text-align: center;
+}
+
+[class="3"] {
+  height: 10vh;
+  background-color: lightgoldenrodyellow;
+}
+
+.inner1 {
+  border: 2px solid black;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+.inner2 {
+  border: 2px solid black;
+  display: inline;
+}
+
+.inner3 {
+  border: 2px solid black;
+}
