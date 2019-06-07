@@ -1,0 +1,5 @@
+.image {
+  height: 100vh;
+  background-image: url("../my-website/src/images/background-hero-image.svg");
+  background-size: cover;
+}

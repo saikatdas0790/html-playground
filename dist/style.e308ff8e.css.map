@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA;EACE,aAAa;EACb,8DAA2E;EAC3E,sBAAsB;AACxB","file":"style.e308ff8e.css","sourceRoot":"..","sourcesContent":[".image {\n  height: 100vh;\n  background-image: url(\"../my-website/src/images/background-hero-image.svg\");\n  background-size: cover;\n}\n"]}
